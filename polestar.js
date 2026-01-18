@@ -339,6 +339,7 @@ class Polestar {
       "      chargingStatus\n"+
       "      estimatedChargingTimeToFullMinutes\n"+
       "      estimatedDistanceToEmptyKm\n"+
+      "      estimatedDistanceToEmptyMiles\n"+
       "      timestamp { seconds nanos }\n"+
       "    }\n"+
       "    odometer {\n"+
